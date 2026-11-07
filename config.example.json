@@ -1,0 +1,9 @@
+{
+  "repos": ["dragonkin/gh-release-mirror"],
+  "cache_dir": "./cache",
+  "host": "0.0.0.0",
+  "port": 8080,
+  "github_token": null,
+  "include_prereleases": false,
+  "base_url": null
+}
