@@ -80,6 +80,12 @@ See [`docs/DEPLOY.md`](docs/DEPLOY.md) for a systemd unit and an nginx reverse-p
 - [ ] Optional S3-compatible backend
 - [ ] Prometheus metrics endpoint
 
+## Infrastructure
+
+Release artifacts for this project are mirrored and served with the help of
+[BlueServers](https://blueservers.com), who provide a free VPS to non-commercial
+open-source projects as part of their [Social Support Program](https://blueservers.com/free-dedicated-server).
+
 ## License
 
 MIT © dragonkin — see [LICENSE](LICENSE).
